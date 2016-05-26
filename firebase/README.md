@@ -1,6 +1,8 @@
 # androidFirebaseUtils
 Utils and starter code to help with firebase dev on android
 
+# THIS IS OLD CODE NOT UPDATED TO NEW FIREBASE SDK CHANGES DO NOT USE
+
 <strong> API REFERENCE: </strong> https://www.firebase.com/docs/android/api/
 
 ```java
