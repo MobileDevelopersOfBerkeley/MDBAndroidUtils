@@ -1,7 +1,7 @@
 # androidFirebaseUtils
 Utils and starter code to help with firebase dev on android
 
-API REFERENCE: https://firebase.google.com/docs/reference/android/packages
+Api Reference: https://firebase.google.com/docs/reference/android/packages
 
 Example Usage of FirebaseUtils:
 ```java
