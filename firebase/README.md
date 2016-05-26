@@ -5,7 +5,8 @@ Utils and starter code to help with firebase dev on android
 
 ```java
 List<Table1> result1 = new ArrayList<Table1>();
-List<Table1> result1 = new ArrayList<Table1>();
+List<Table1> result2 = new ArrayList<Table2>();
+List<Table1> result3 = new ArrayList<Table3>();
 
 private void fetchAndShowDataAsync() {
       Query q1 = QueryUtils.ref.child("Table1").orderByChild("Column1").equalTo("SomeValue");
